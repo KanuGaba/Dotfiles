@@ -7,5 +7,4 @@ export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"
 
 # Personal additions
 export PATH=$PATH:/mnt/c/Users/kanug/Box\ Sync/Code/Scripts/bin
-eval "$(hub alias -s)"
 export DISPLAY=:0
