@@ -115,6 +115,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-# link to windows main directory
-# cd /mnt/c/Users/kanug/Box\ Sync/
